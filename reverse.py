@@ -66,3 +66,18 @@
 # value=x[3][-4]
 # print(value)
 
+# x=[1,7,-10,34,2,-8]
+# sum = 0
+# for i in x:
+# 	sum+= i
+# print(sum)
+
+# a=[3,4,5,4,7]
+# sum=1
+# for i in a:
+#     sum*=i
+# print(sum)    
+
+a="devi"
+print(a) 
+    
